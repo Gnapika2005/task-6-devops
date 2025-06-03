@@ -51,5 +51,5 @@ This task demonstrates how to deploy static content for free using GitHub Pages.
 
 ---
 
-✅ **Submitted by:** Abhinay Agoli  
+✅ **Submitted by:**Gnapika2005  
 🎓 **Task:** DevOps Internship - Task 6
